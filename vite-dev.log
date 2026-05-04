@@ -1,0 +1,46 @@
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m1918[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m12:19:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx, /src/styles/index.css[22m
+[2m12:32:26[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:32:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:32:38[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:33:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:35:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /src/styles/index.css[22m
+[2m12:36:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m12:49:38[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:50:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m12:50:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:51:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:54:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx, /src/styles/index.css[22m
+[2m12:55:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /src/styles/index.css[22m
+[2m12:58:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:58:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m12:58:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx, /src/styles/index.css[22m
+[2m13:03:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mrelease/windows/wwwroot/index.html[22m
+[2m13:03:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/wwwroot/index.html[22m
+[2m13:40:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m13:41:40[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m13:42:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /src/styles/index.css[22m
+[2m13:42:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/wwwroot/index.html[22m
+[2m13:42:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mrelease/windows/wwwroot/index.html[22m
+[2m13:43:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/bin/Release/net8.0/win-x64/wwwroot/index.html[22m
+[2m13:43:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mrelease/windows/wwwroot/index.html[22m
+[2m13:44:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mrelease/windows/wwwroot/index.html[22m
+[2m14:20:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/wwwroot/index.html[22m
+[2m14:20:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/wwwroot/index.html[22m
+[2m14:21:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/bin/Release/net8.0/win-x64/wwwroot/index.html[22m
+[2m14:21:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mrelease/windows/wwwroot/index.html[22m
+[2m14:28:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m14:29:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m14:29:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m14:29:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m14:29:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /src/styles/index.css[22m
+[2m14:30:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /src/styles/index.css[22m
+[2m14:30:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx[22m
+[2m14:30:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\SettingsPage.tsx, /@fs/C:\Users\kalle\OneDrive\Documentos\New project\PAD\src\app\components\AnalyticsPage.tsx[22m
+[2m14:32:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/wwwroot/index.html[22m
+[2m14:32:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/bin/Release/net8.0/win-x64/wwwroot/index.html[22m
+[2m14:32:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdesktop/bin/Release/net8.0/win-x64/wwwroot/index.html[22m
+[2m14:32:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mrelease/windows/wwwroot/index.html[22m
