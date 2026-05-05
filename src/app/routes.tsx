@@ -7,8 +7,12 @@ import { AnalyticsPage } from './components/AnalyticsPage';
 import { EditorialCalendar } from './components/EditorialCalendar';
 import { ReportsPage } from './components/ReportsPage';
 import { SettingsPage } from './components/SettingsPage';
+import { LegalPage } from './components/LegalPage';
 
 export const router = createBrowserRouter([
+  { path: '/politica-de-privacidade', Component: LegalPage },
+  { path: '/termos-de-servico', Component: LegalPage },
+  { path: '/exclusao-de-dados', Component: LegalPage },
   {
     path: '/',
     Component: Layout,

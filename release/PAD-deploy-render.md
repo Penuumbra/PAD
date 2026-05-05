@@ -63,6 +63,24 @@ Esses segredos devem ficar no futuro conector OAuth seguro, nao no frontend.
 
 Quando o Render publicar o site, use a URL HTTPS gerada para atualizar os painéis OAuth:
 
+## URLs publicas obrigatorias
+
+Substitua `SEU-SITE.onrender.com` pela URL real do Static Site:
+
+```text
+https://SEU-SITE.onrender.com/politica-de-privacidade
+https://SEU-SITE.onrender.com/termos-de-servico
+https://SEU-SITE.onrender.com/exclusao-de-dados
+```
+
+Use essas URLs em Meta Developers > Configuracoes do app > Basico:
+
+| Campo Meta | URL |
+|---|---|
+| URL da Politica de Privacidade | `https://SEU-SITE.onrender.com/politica-de-privacidade` |
+| URL dos Termos de Servico | `https://SEU-SITE.onrender.com/termos-de-servico` |
+| Exclusao de dados do usuario | `https://SEU-SITE.onrender.com/exclusao-de-dados` |
+
 ### Meta / Facebook Login
 
 Adicionar em Valid OAuth Redirect URIs:
