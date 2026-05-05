@@ -30,6 +30,17 @@ Gere o build web:
 npm run build
 ```
 
+## Deploy no Render
+
+Para publicar como Static Site no Render:
+
+```text
+Build Command: npm ci && npm run build
+Publish Directory: dist
+```
+
+O arquivo `render.yaml` tambem define a publicacao estatica e a rewrite `/* -> /index.html` para as rotas do React Router.
+
 ## Desktop
 
 O projeto `desktop/` publica o build web dentro de um executável local que abre o PAD no navegador padrão, sem interface Windows Forms.

@@ -3,6 +3,7 @@
 ## Build e publicacao
 
 - Vite production build: passou.
+- Vite production build apos configuracao Render: passou em 2026-05-05.
 - Publicacao Windows `PAD.exe`: passou.
 - Publicacao `PADTrilha.exe`: passou.
 - `PAD-windows-x64.zip`: regenerado.
@@ -21,6 +22,8 @@
 - Guia `PAD-OAuth-caminhos.md`: presente.
 - Pesquisa de concorrentes `PAD-pesquisa-concorrentes.md`: presente.
 - Plano de execucao dos socios `PAD-plano-execucao-socios.md`: presente.
+- Guia de deploy Render `PAD-deploy-render.md`: presente.
+- `render.yaml`: presente, com `buildCommand`, `staticPublishPath` e rewrite para React Router.
 - Projetos demo removidos do bundle final: `BLR`, `Portal AZ`, `Advbox`/`ADVBox` ausentes.
 - Constantes `DEMO_PROJECTS` e `DEMO_CONTENT`: ausentes.
 - Badge/estado de plataforma `Simulado`: ausente.
